@@ -9,6 +9,10 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="KDRCModels" Version="1.0.0" />
+        <PackageReference Include="KubernetesClient" Version="8.0.6" />
+        <PackageReference Include="MassTransit.RabbitMQ" Version="8.0.2" />
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
     </ItemGroup>
 
